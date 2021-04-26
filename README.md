@@ -20,11 +20,11 @@ If you are to train the model yourself, it is avaible in TrainSVDonGoodRead.ipyn
 
 ## Requierments
 while i isn't ready yet here a list of modules you will need :
-\
+
 1. pandas
 2. surprise
 3. pickle
 4. matplotlib
 5. wordcloud
-\
+
 thank you for reading
